@@ -1,1 +1,1 @@
-# Banana-seca
+# Projeto curso 2 
